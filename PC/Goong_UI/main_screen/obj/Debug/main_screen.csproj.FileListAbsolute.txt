@@ -1,0 +1,239 @@
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\main_screen.exe.config
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\main_screen.exe
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\main_screen.pdb
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.csproj.AssemblyReference.cache
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.Form1.resources
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.Properties.Resources.resources
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.csproj.GenerateResource.cache
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.csproj.CoreCompileInputs.cache
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.exe
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.pdb
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.manual_screen.resources
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.setup_screen.resources
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.Check_screen.resources
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\BusinessLayer.dll
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\DataAccess.dll
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\BusinessLayer.pdb
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\DataAccess.pdb
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.csproj.CopyComplete
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIX_BUG\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\main_screen.exe.config
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIX_BUG\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\main_screen.exe
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIX_BUG\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\main_screen.pdb
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIX_BUG\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\BusinessLayer.dll
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIX_BUG\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\DataAccess.dll
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIX_BUG\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\BusinessLayer.pdb
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIX_BUG\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\DataAccess.pdb
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIX_BUG\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.csproj.AssemblyReference.cache
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIX_BUG\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.Check_screen.resources
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIX_BUG\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.confirmscreen.resources
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIX_BUG\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.Form1.resources
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIX_BUG\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.manual_screen.resources
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIX_BUG\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.Properties.Resources.resources
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIX_BUG\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.setup_screen.resources
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIX_BUG\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.csproj.GenerateResource.cache
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIX_BUG\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.csproj.CoreCompileInputs.cache
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIX_BUG\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.csproj.CopyComplete
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIX_BUG\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.exe
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIX_BUG\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.pdb
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIXXX\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\main_screen.exe.config
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIXXX\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\main_screen.exe
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIXXX\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\main_screen.pdb
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIXXX\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\BusinessLayer.dll
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIXXX\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\DataAccess.dll
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIXXX\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\BusinessLayer.pdb
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIXXX\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\DataAccess.pdb
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIXXX\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.csproj.AssemblyReference.cache
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIXXX\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.Check_screen.resources
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIXXX\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.confirmscreen.resources
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIXXX\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.Form1.resources
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIXXX\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.manual_screen.resources
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIXXX\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.Properties.Resources.resources
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIXXX\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.setup_screen.resources
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIXXX\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.csproj.GenerateResource.cache
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIXXX\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.csproj.CoreCompileInputs.cache
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIXXX\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.csproj.CopyComplete
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIXXX\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.exe
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIXXX\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.pdb
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\main_screen.exe.config
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\main_screen.exe
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\main_screen.pdb
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\BusinessLayer.dll
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\DataAccess.dll
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\BusinessLayer.pdb
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\DataAccess.pdb
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.csproj.AssemblyReference.cache
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.Check_screen.resources
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.confirmscreen.resources
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.Form1.resources
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.manual_screen.resources
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.Properties.Resources.resources
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.setup_screen.resources
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.csproj.GenerateResource.cache
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.csproj.CoreCompileInputs.cache
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.csproj.CopyComplete
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.exe
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.pdb
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\main_screen.exe.config
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\main_screen.exe
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\main_screen.pdb
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\BusinessLayer.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\DataAccess.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\BusinessLayer.pdb
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\DataAccess.pdb
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.csproj.AssemblyReference.cache
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.Check_screen.resources
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.confirmscreen.resources
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.Form1.resources
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.manual_screen.resources
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.Properties.Resources.resources
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.setup_screen.resources
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.csproj.GenerateResource.cache
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.csproj.CoreCompileInputs.cache
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.csproj.CopyComplete
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.exe
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.pdb
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\SocketIOClient.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.Buffers.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.Memory.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.Numerics.Vectors.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.Text.Encodings.Web.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.Text.Json.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.ValueTuple.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\BusinessLayer.dll.config
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\DataAccess.dll.config
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\SocketIOClient.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.Buffers.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.Memory.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.Numerics.Vectors.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.Text.Encodings.Web.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.Text.Json.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.ValueTuple.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\main_screen.exe.config
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\main_screen.exe
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\main_screen.pdb
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\BusinessLayer.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\DataAccess.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\SocketIOClient.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.Buffers.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.Memory.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.Numerics.Vectors.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.Text.Encodings.Web.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.Text.Json.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.ValueTuple.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\BusinessLayer.pdb
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\BusinessLayer.dll.config
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\DataAccess.pdb
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\DataAccess.dll.config
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\SocketIOClient.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.Buffers.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.Memory.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.Numerics.Vectors.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.Text.Encodings.Web.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.Text.Json.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\bin\Debug\System.ValueTuple.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.csproj.AssemblyReference.cache
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.Check_screen.resources
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.confirmscreen.resources
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.Form1.resources
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.manual_screen.resources
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.Properties.Resources.resources
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.setup_screen.resources
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.csproj.GenerateResource.cache
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.csproj.CoreCompileInputs.cache
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.csproj.CopyComplete
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.exe
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\main_screen\obj\Debug\main_screen.pdb
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\main_screen.exe.config
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\main_screen.exe
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\main_screen.pdb
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\BusinessLayer.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\DataAccess.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\SocketIOClient.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\System.Buffers.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\System.Memory.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\System.Numerics.Vectors.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\System.Text.Encodings.Web.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\System.Text.Json.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\System.ValueTuple.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\BusinessLayer.pdb
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\BusinessLayer.dll.config
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\DataAccess.pdb
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\DataAccess.dll.config
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\SocketIOClient.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\System.Buffers.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\System.Memory.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\System.Numerics.Vectors.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\System.Text.Encodings.Web.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\System.Text.Json.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\bin\Debug\System.ValueTuple.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\obj\Debug\main_screen.csproj.AssemblyReference.cache
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\obj\Debug\main_screen.Check_screen.resources
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\obj\Debug\main_screen.confirmscreen.resources
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\obj\Debug\main_screen.Form1.resources
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\obj\Debug\main_screen.manual_screen.resources
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\obj\Debug\main_screen.Properties.Resources.resources
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\obj\Debug\main_screen.setup_screen.resources
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\obj\Debug\main_screen.csproj.GenerateResource.cache
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\obj\Debug\main_screen.csproj.CoreCompileInputs.cache
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\obj\Debug\main_screen.csproj.CopyComplete
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\obj\Debug\main_screen.exe
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\main_screen\obj\Debug\main_screen.pdb
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\main_screen.exe.config
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\main_screen.exe
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\main_screen.pdb
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\BusinessLayer.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\DataAccess.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\SocketIOClient.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\System.Buffers.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\System.Memory.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\System.Text.Json.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\System.ValueTuple.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\BusinessLayer.pdb
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\BusinessLayer.dll.config
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\DataAccess.pdb
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\DataAccess.dll.config
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\SocketIOClient.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\System.Buffers.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\System.Memory.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\System.Text.Json.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\bin\Debug\System.ValueTuple.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\obj\Debug\main_screen.csproj.AssemblyReference.cache
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\obj\Debug\main_screen.Check_screen.resources
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\obj\Debug\main_screen.confirmscreen.resources
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\obj\Debug\main_screen.Form1.resources
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\obj\Debug\main_screen.manual_screen.resources
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\obj\Debug\main_screen.Properties.Resources.resources
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\obj\Debug\main_screen.setup_screen.resources
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\obj\Debug\main_screen.csproj.GenerateResource.cache
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\obj\Debug\main_screen.csproj.CoreCompileInputs.cache
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\obj\Debug\main_scr.D4F10F4A.Up2Date
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\obj\Debug\main_screen.exe
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\main_screen\obj\Debug\main_screen.pdb

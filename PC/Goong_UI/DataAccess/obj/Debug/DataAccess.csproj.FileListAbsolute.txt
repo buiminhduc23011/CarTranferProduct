@@ -1,0 +1,220 @@
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\DataAccess.dll
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\DataAccess.pdb
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_XE_GOONG\main_screen\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_XE_GOONG\main_screen\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_XE_GOONG\main_screen\DataAccess\obj\Debug\DataAccess.dll
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_XE_GOONG\main_screen\DataAccess\obj\Debug\DataAccess.pdb
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIX_BUG\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\DataAccess.dll
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIX_BUG\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\DataAccess.pdb
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIX_BUG\HDMI_XE_GOONG\main_screen\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIX_BUG\HDMI_XE_GOONG\main_screen\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIX_BUG\HDMI_XE_GOONG\main_screen\DataAccess\obj\Debug\DataAccess.dll
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIX_BUG\HDMI_XE_GOONG\main_screen\DataAccess\obj\Debug\DataAccess.pdb
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIXXX\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\DataAccess.dll
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIXXX\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\DataAccess.pdb
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIXXX\HDMI_XE_GOONG\main_screen\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIXXX\HDMI_XE_GOONG\main_screen\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIXXX\HDMI_XE_GOONG\main_screen\DataAccess\obj\Debug\DataAccess.dll
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\FIXXX\HDMI_XE_GOONG\main_screen\DataAccess\obj\Debug\DataAccess.pdb
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\DataAccess.dll
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\DataAccess.pdb
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\obj\Debug\DataAccess.dll
+C:\Docment write by me\Tài liệu lập trình C,\C#\HOC_C_THANG\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\obj\Debug\DataAccess.pdb
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\DataAccess.dll.config
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\DataAccess.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\DataAccess.pdb
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\SocketIOClient.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.Buffers.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.Memory.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.Numerics.Vectors.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.Text.Encodings.Web.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.Text.Json.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.ValueTuple.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\SocketIOClient.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.Buffers.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.Memory.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.Numerics.Vectors.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.Text.Encodings.Web.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.Text.Json.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.ValueTuple.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\obj\Debug\DataAccess.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\obj\Debug\DataAccess.pdb
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_29_08\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\DataAccess.dll.config
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\DataAccess.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\DataAccess.pdb
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\SocketIOClient.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.Buffers.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.Memory.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.Numerics.Vectors.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.Text.Encodings.Web.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.Text.Json.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.ValueTuple.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\SocketIOClient.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.Buffers.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.Memory.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.Numerics.Vectors.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.Text.Encodings.Web.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.Text.Json.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\bin\Debug\System.ValueTuple.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\obj\Debug\DataAccess.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\obj\Debug\DataAccess.pdb
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_09_toi_uu\HDMI_1105\HDMI_XE_GOONG\main_screen\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\DataAccess\bin\Debug\DataAccess.dll.config
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\DataAccess\bin\Debug\DataAccess.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\DataAccess\bin\Debug\DataAccess.pdb
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\DataAccess\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\DataAccess\bin\Debug\SocketIOClient.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\DataAccess\bin\Debug\System.Buffers.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\DataAccess\bin\Debug\System.Memory.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\DataAccess\bin\Debug\System.Numerics.Vectors.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\DataAccess\bin\Debug\System.Text.Encodings.Web.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\DataAccess\bin\Debug\System.Text.Json.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\DataAccess\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\DataAccess\bin\Debug\System.ValueTuple.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\DataAccess\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\DataAccess\bin\Debug\SocketIOClient.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\DataAccess\bin\Debug\System.Buffers.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\DataAccess\bin\Debug\System.Memory.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\DataAccess\bin\Debug\System.Numerics.Vectors.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\DataAccess\bin\Debug\System.Text.Encodings.Web.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\DataAccess\bin\Debug\System.Text.Json.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\DataAccess\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\DataAccess\bin\Debug\System.ValueTuple.xml
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\DataAccess\obj\Debug\DataAccess.dll
+C:\STI PROJECT\Xe goong và băng tải đôi\Chuong trinh xe goong\HDMI\HDMI_06_10_toi_uu\main_screen\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\DataAccess\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\DataAccess\bin\Debug\SocketIOClient.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\DataAccess\bin\Debug\System.Buffers.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\DataAccess\bin\Debug\System.Memory.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\DataAccess\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\DataAccess\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\DataAccess\bin\Debug\System.Text.Json.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\DataAccess\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\DataAccess\bin\Debug\System.ValueTuple.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\DataAccess\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\DataAccess\bin\Debug\SocketIOClient.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\DataAccess\bin\Debug\System.Buffers.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\DataAccess\bin\Debug\System.Memory.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\DataAccess\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\DataAccess\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\DataAccess\bin\Debug\System.Text.Json.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\DataAccess\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\DataAccess\bin\Debug\System.ValueTuple.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\DataAccess\obj\Debug\DataAccess.csproj.Up2Date
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\main_screen\main_screen\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\SocketIOClient.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.Buffers.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.Memory.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.Text.Json.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.ValueTuple.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\SocketIOClient.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.Buffers.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.Memory.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.Text.Json.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.ValueTuple.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\DataAccess\obj\Debug\DataAccess.csproj.Up2Date
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\DataAccess\obj\Debug\DataAccess.pdb
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\DataAccess.dll.config
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\DataAccess.dll
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\DataAccess.pdb
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\SocketIOClient.dll
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.Buffers.dll
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.Memory.dll
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.Numerics.Vectors.dll
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.Text.Encodings.Web.dll
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.Text.Json.dll
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.ValueTuple.dll
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\SocketIOClient.xml
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.Buffers.xml
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.Memory.xml
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.Numerics.Vectors.xml
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.Text.Encodings.Web.xml
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.Text.Json.xml
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\DataAccess\bin\Debug\System.ValueTuple.xml
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\DataAccess\obj\Debug\DataAccess.csproj.Up2Date
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\DataAccess\obj\Debug\DataAccess.dll
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\DataAccess\obj\Debug\DataAccess.pdb
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\DataAccess\bin\Debug\DataAccess.dll.config
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\DataAccess\bin\Debug\DataAccess.dll
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\DataAccess\bin\Debug\DataAccess.pdb
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\DataAccess\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\DataAccess\bin\Debug\SocketIOClient.dll
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\DataAccess\bin\Debug\System.Buffers.dll
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\DataAccess\bin\Debug\System.Memory.dll
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\DataAccess\bin\Debug\System.Numerics.Vectors.dll
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\DataAccess\bin\Debug\System.Text.Encodings.Web.dll
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\DataAccess\bin\Debug\System.Text.Json.dll
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\DataAccess\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\DataAccess\bin\Debug\System.ValueTuple.dll
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\DataAccess\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\DataAccess\bin\Debug\SocketIOClient.xml
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\DataAccess\bin\Debug\System.Buffers.xml
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\DataAccess\bin\Debug\System.Memory.xml
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\DataAccess\bin\Debug\System.Numerics.Vectors.xml
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\DataAccess\bin\Debug\System.Text.Encodings.Web.xml
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\DataAccess\bin\Debug\System.Text.Json.xml
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\DataAccess\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\DataAccess\bin\Debug\System.ValueTuple.xml
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\DataAccess\obj\Debug\DataAccess.csproj.Up2Date
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\DataAccess\obj\Debug\DataAccess.dll
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\DataAccess\obj\Debug\DataAccess.pdb

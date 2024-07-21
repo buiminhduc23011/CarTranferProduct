@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ducbu\\OneDrive\\Desktop\\XeGoong\\main_screen\\main_screen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5A2B3D-DBD4-4B5B-BB84-C494EF6B8858}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\ducbu\\onedrive\\desktop\\xegoong\\main_screen\\main_screen\\businesslayer\\agvprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5A2B3D-DBD4-4B5B-BB84-C494EF6B8858}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\agvprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F7DBE2-456D-4BA2-BDE7-9B0C354DCDE2}|DataAccess\\DataAccess.csproj|c:\\users\\ducbu\\onedrive\\desktop\\xegoong\\main_screen\\main_screen\\dataaccess\\network\\socketioclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F7DBE2-456D-4BA2-BDE7-9B0C354DCDE2}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\network\\socketioclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2583E7EF-FD39-4BFC-B234-64A20A9BA0E1}|main_screen\\main_screen.csproj|c:\\users\\ducbu\\onedrive\\desktop\\xegoong\\main_screen\\main_screen\\main_screen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2583E7EF-FD39-4BFC-B234-64A20A9BA0E1}|main_screen\\main_screen.csproj|solutionrelative:main_screen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2583E7EF-FD39-4BFC-B234-64A20A9BA0E1}|main_screen\\main_screen.csproj|c:\\users\\ducbu\\onedrive\\desktop\\xegoong\\main_screen\\main_screen\\main_screen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2583E7EF-FD39-4BFC-B234-64A20A9BA0E1}|main_screen\\main_screen.csproj|solutionrelative:main_screen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F7DBE2-456D-4BA2-BDE7-9B0C354DCDE2}|DataAccess\\DataAccess.csproj|c:\\users\\ducbu\\onedrive\\desktop\\xegoong\\main_screen\\main_screen\\dataaccess\\ascii\\ascii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F7DBE2-456D-4BA2-BDE7-9B0C354DCDE2}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\ascii\\ascii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F7DBE2-456D-4BA2-BDE7-9B0C354DCDE2}|DataAccess\\DataAccess.csproj|c:\\users\\ducbu\\onedrive\\desktop\\xegoong\\main_screen\\main_screen\\dataaccess\\ascii\\wordtobits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F7DBE2-456D-4BA2-BDE7-9B0C354DCDE2}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\ascii\\wordtobits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5A2B3D-DBD4-4B5B-BB84-C494EF6B8858}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\ducbu\\onedrive\\desktop\\xegoong\\main_screen\\main_screen\\businesslayer\\iagvdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5A2B3D-DBD4-4B5B-BB84-C494EF6B8858}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\iagvdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2583E7EF-FD39-4BFC-B234-64A20A9BA0E1}|main_screen\\main_screen.csproj|c:\\users\\ducbu\\onedrive\\desktop\\xegoong\\main_screen\\main_screen\\main_screen\\setup_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2583E7EF-FD39-4BFC-B234-64A20A9BA0E1}|main_screen\\main_screen.csproj|solutionrelative:main_screen\\setup_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F7DBE2-456D-4BA2-BDE7-9B0C354DCDE2}|DataAccess\\DataAccess.csproj|c:\\users\\ducbu\\onedrive\\desktop\\xegoong\\main_screen\\main_screen\\dataaccess\\network\\le.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F7DBE2-456D-4BA2-BDE7-9B0C354DCDE2}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\network\\le.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:426686534:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "iAGVDataController.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\Desktop\\XeGoong\\main_screen\\main_screen\\BusinessLayer\\iAGVDataController.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\iAGVDataController.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\Desktop\\XeGoong\\main_screen\\main_screen\\BusinessLayer\\iAGVDataController.cs",
+              "RelativeToolTip": "BusinessLayer\\iAGVDataController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA3wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:29:04.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\Desktop\\XeGoong\\main_screen\\main_screen\\main_screen\\Form1.cs",
+              "RelativeDocumentMoniker": "main_screen\\Form1.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\Desktop\\XeGoong\\main_screen\\main_screen\\main_screen\\Form1.cs",
+              "RelativeToolTip": "main_screen\\Form1.cs",
+              "ViewState": "AQIAAF8BAAAAAAAAAAAtwHUBAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:19:04.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "setup_screen.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\Desktop\\XeGoong\\main_screen\\main_screen\\main_screen\\setup_screen.cs",
+              "RelativeDocumentMoniker": "main_screen\\setup_screen.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\Desktop\\XeGoong\\main_screen\\main_screen\\main_screen\\setup_screen.cs",
+              "RelativeToolTip": "main_screen\\setup_screen.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAIA5wH8AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:40:04.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AGVProcess.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\Desktop\\XeGoong\\main_screen\\main_screen\\BusinessLayer\\AGVProcess.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\AGVProcess.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\Desktop\\XeGoong\\main_screen\\main_screen\\BusinessLayer\\AGVProcess.cs",
+              "RelativeToolTip": "BusinessLayer\\AGVProcess.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAvwCgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:39:55.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "le.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\Desktop\\XeGoong\\main_screen\\main_screen\\DataAccess\\Network\\le.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Network\\le.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\Desktop\\XeGoong\\main_screen\\main_screen\\DataAccess\\Network\\le.cs",
+              "RelativeToolTip": "DataAccess\\Network\\le.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:21:53.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SocketIOClient.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\Desktop\\XeGoong\\main_screen\\main_screen\\DataAccess\\Network\\SocketIOClient.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Network\\SocketIOClient.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\Desktop\\XeGoong\\main_screen\\main_screen\\DataAccess\\Network\\SocketIOClient.cs",
+              "RelativeToolTip": "DataAccess\\Network\\SocketIOClient.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAkwIMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:21:52.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\Desktop\\XeGoong\\main_screen\\main_screen\\main_screen\\Program.cs",
+              "RelativeDocumentMoniker": "main_screen\\Program.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\Desktop\\XeGoong\\main_screen\\main_screen\\main_screen\\Program.cs",
+              "RelativeToolTip": "main_screen\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:20:24.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WordToBits.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\Desktop\\XeGoong\\main_screen\\main_screen\\DataAccess\\ASCII\\WordToBits.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ASCII\\WordToBits.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\Desktop\\XeGoong\\main_screen\\main_screen\\DataAccess\\ASCII\\WordToBits.cs",
+              "RelativeToolTip": "DataAccess\\ASCII\\WordToBits.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:20:20.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ascii.cs",
+              "DocumentMoniker": "C:\\Users\\ducbu\\OneDrive\\Desktop\\XeGoong\\main_screen\\main_screen\\DataAccess\\ASCII\\ascii.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ASCII\\ascii.cs",
+              "ToolTip": "C:\\Users\\ducbu\\OneDrive\\Desktop\\XeGoong\\main_screen\\main_screen\\DataAccess\\ASCII\\ascii.cs",
+              "RelativeToolTip": "DataAccess\\ASCII\\ascii.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:20:15.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

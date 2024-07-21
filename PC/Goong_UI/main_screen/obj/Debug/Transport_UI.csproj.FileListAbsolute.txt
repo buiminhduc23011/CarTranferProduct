@@ -1,0 +1,123 @@
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\main_screen.exe.config
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\main_screen.exe
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\main_screen.pdb
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\BusinessLayer.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\DataAccess.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\SocketIOClient.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.Buffers.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.Memory.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.Text.Json.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.ValueTuple.dll
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\BusinessLayer.pdb
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\BusinessLayer.dll.config
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\DataAccess.pdb
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\DataAccess.dll.config
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\SocketIOClient.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.Buffers.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.Memory.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.Text.Json.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.ValueTuple.xml
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\obj\Debug\Transport_UI.csproj.AssemblyReference.cache
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\obj\Debug\main_screen.History.resources
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\obj\Debug\main_screen.confirmscreen.resources
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\obj\Debug\main_screen.Main.resources
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\obj\Debug\main_screen.Manual.resources
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\obj\Debug\main_screen.Properties.Resources.resources
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\obj\Debug\main_screen.Setting.resources
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\obj\Debug\Transport_UI.csproj.GenerateResource.cache
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\obj\Debug\Transport_UI.csproj.CoreCompileInputs.cache
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\obj\Debug\Transpor.DD0257BD.Up2Date
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\obj\Debug\main_screen.exe
+C:\Users\ducbu\OneDrive\Desktop\XeGoong\PC\Goong_UI\main_screen\obj\Debug\main_screen.pdb
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\obj\Debug\Transport_UI.csproj.AssemblyReference.cache
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\obj\Debug\main_screen.History.resources
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\obj\Debug\main_screen.confirmscreen.resources
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\obj\Debug\main_screen.Main.resources
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\obj\Debug\main_screen.Manual.resources
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\obj\Debug\main_screen.Properties.Resources.resources
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\obj\Debug\main_screen.Setting.resources
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\obj\Debug\Transport_UI.csproj.GenerateResource.cache
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\obj\Debug\Transport_UI.csproj.CoreCompileInputs.cache
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\obj\Debug\main_screen.exe
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\obj\Debug\main_screen.pdb
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\main_screen.exe.config
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\main_screen.exe
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\main_screen.pdb
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\BusinessLayer.dll
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\DataAccess.dll
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\SocketIOClient.dll
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.Buffers.dll
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.Memory.dll
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.Numerics.Vectors.dll
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.Text.Encodings.Web.dll
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.Text.Json.dll
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.ValueTuple.dll
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\BusinessLayer.pdb
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\BusinessLayer.dll.config
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\DataAccess.pdb
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\DataAccess.dll.config
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\SocketIOClient.xml
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.Buffers.xml
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.Memory.xml
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.Numerics.Vectors.xml
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.Text.Encodings.Web.xml
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.Text.Json.xml
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\bin\Debug\System.ValueTuple.xml
+G:\My Drive\STI\Project_Running\XeGoong\PC\Goong_UI\main_screen\obj\Debug\Transpor.DD0257BD.Up2Date
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\main_screen.exe.config
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\main_screen.exe
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\main_screen.pdb
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\BusinessLayer.dll
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\DataAccess.dll
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\SocketIOClient.dll
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\System.Buffers.dll
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\System.Memory.dll
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\System.Numerics.Vectors.dll
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\System.Text.Encodings.Web.dll
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\System.Text.Json.dll
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\System.ValueTuple.dll
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\BusinessLayer.pdb
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\BusinessLayer.dll.config
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\DataAccess.pdb
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\DataAccess.dll.config
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\SocketIOClient.xml
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\System.Buffers.xml
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\System.Memory.xml
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\System.Numerics.Vectors.xml
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\System.Text.Encodings.Web.xml
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\System.Text.Json.xml
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\bin\Debug\System.ValueTuple.xml
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\obj\Debug\Transport_UI.csproj.AssemblyReference.cache
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\obj\Debug\main_screen.History.resources
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\obj\Debug\main_screen.confirmscreen.resources
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\obj\Debug\main_screen.Main.resources
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\obj\Debug\main_screen.Manual.resources
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\obj\Debug\main_screen.Properties.Resources.resources
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\obj\Debug\main_screen.Setting.resources
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\obj\Debug\Transport_UI.csproj.GenerateResource.cache
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\obj\Debug\Transport_UI.csproj.CoreCompileInputs.cache
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\obj\Debug\Transpor.DD0257BD.Up2Date
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\obj\Debug\main_screen.exe
+G:\My Drive\STI\04.SHIV12\03.XeChuyenHangRotor\PC\Goong_UI\main_screen\obj\Debug\main_screen.pdb
