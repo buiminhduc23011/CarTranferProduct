@@ -1,0 +1,64 @@
+-
+Đã nhấn nút dừng khẩn cấp
+Lỗi biến tần
+Va chạm Parder Shock
+Cảm biến sick trước bị lỗi
+Vi phạm vùng an toàn phía trước
+Vi phạm vùng an toàn phía sau
+Vui lòng không để hàng lên AGV khi không có lệnh
+Chạm limit+
+Chạm limit- 
+Tray băng tải 1 không đúng vị trí
+Tray băng tải 2 không đúng vị trí
+Tray băng tải 3 không đúng vị trí
+Tray băng tải 4 không đúng vị trí
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Lỗi Không Xác Định
+Tray băng tải 1 không đúng vị trí
+Tray băng tải 2 không đúng vị trí
+Tray băng tải 3 không đúng vị trí
+Tray băng tải 4 không đúng vị trí
